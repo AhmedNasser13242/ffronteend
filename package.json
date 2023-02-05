@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://ecom-app12-nxvj.onrender.com/",
+  "proxy": "https://ecom-app12-nxvj.onrender.com/api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
