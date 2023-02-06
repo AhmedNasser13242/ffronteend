@@ -16,6 +16,7 @@ import {
   ORDER_DELIVER_RESET,
 } from "../constants/orderConstants";
 import { useParams } from "react-router-dom";
+import { URL } from "../App";
 
 const OrderScreen = ({}) => {
   const { id } = useParams();
