@@ -27,6 +27,8 @@ import ProductListScreen from "./screens/ProductListScreen";
 import ProductEditScreen from "./screens/ProductEditScreen";
 import OrderListScreen from "./screens/OrderListScreen";
 
+export const URL = process.env.REACT_APP_API;
+
 const App = () => {
   return (
     <>
